@@ -181,6 +181,12 @@
 #define I2C_CR2_FREQ_34MHZ		0x22
 #define I2C_CR2_FREQ_35MHZ		0x23
 #define I2C_CR2_FREQ_36MHZ		0x24
+#define I2C_CR2_FREQ_37MHZ		0x25
+#define I2C_CR2_FREQ_38MHZ		0x26
+#define I2C_CR2_FREQ_39MHZ		0x27
+#define I2C_CR2_FREQ_40MHZ		0x28
+#define I2C_CR2_FREQ_41MHZ		0x29
+#define I2C_CR2_FREQ_42MHZ		0x2a
 
 /* --- I2Cx_OAR1 values ---------------------------------------------------- */
 
